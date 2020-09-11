@@ -1,5 +1,7 @@
 # UI Guides
 
+[![Build Status](https://api.travis-ci.org/cdleon/ui-guides.svg?branch=master)](https://travis-ci.org/cdleon/ui-guides)
+
 ## CSS
 
 - [3 Things (Almost) No One Knows About CSS](https://www.sitepoint.com/3-things-almost-one-knows-css/) - Think you know CSS?
